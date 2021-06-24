@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo Patika.dev 108. Mobil Oyun Bootcamp V Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[![ilk repo](/repo.jpg "ilk repo")]
+![](https://github.com/malicelebii/kodluyoruzilkrepo/blob/main/repo.png)
 ## Installation
 Öncelikle projeyi clonelayın. 
 ```
